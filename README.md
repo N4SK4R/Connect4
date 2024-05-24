@@ -1,6 +1,3 @@
 # Connect4
-First-Sem Python Project using Pygame
-```python
-print("Hello World!")
-```
+Python Project using Pygame and Socket programming
 ![screenshot](Images/Screenshot.png)
